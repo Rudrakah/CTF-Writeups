@@ -12,7 +12,6 @@ This repository documents my journey through Capture The Flag (CTF) challenges, 
 - 🔐 Aspiring Red Teamer
 - 🏴 CTF Player
 - 🐧 Linux Enthusiast
-- 💻 Python | C++ | Git
 - 🌐 Learning Web Security & Bug Bounty
 
 ---
@@ -20,10 +19,7 @@ This repository documents my journey through Capture The Flag (CTF) challenges, 
 ## 📚 Platforms
 
 - picoCTF
-- PortSwigger Web Security Academy
-- TryHackMe
-- Hack The Box
-- College CTFs
+- CyLab
 
 ---
 
@@ -36,20 +32,6 @@ This repository documents my journey through Capture The Flag (CTF) challenges, 
 - 💣 Binary Exploitation
 - 🛰️ OSINT
 - 📦 Miscellaneous
-
----
-
-## 🛠️ Tools
-
-- Burp Suite
-- CyberChef
-- Wireshark
-- Ghidra
-- IDA Free
-- binwalk
-- exiftool
-- strings
-- Python
 
 ---
 
